@@ -17,3 +17,8 @@
 
 `. ./inf2-vllm-with-llmperf.sh`
 
+## Use Jupyter Notebook to visualize the result ##
+Right now the results are in a directory in your local machine.
+I will be adding the notebook to view the results.
+Coming soon...
+
